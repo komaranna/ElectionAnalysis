@@ -12,4 +12,4 @@ Analyzing data from 2014 Hungarian National Elections:
 
 A. Checking independence of voter turnout and percentage of votes for certain parties: textbook-Gaussian for FIDESZ (winning party); minor elongation effects for rest of the parties, likely due to positive correlation between voter turnout and popularity of MSZP and LMP in urban areas
 
-B. other statistical measures underway, check back in a few weeks...
+B. Checking fit of Benford's law on 3rd and 4th digits with chi-square testing: found good agreement between election numbers and theoretical distribution.
